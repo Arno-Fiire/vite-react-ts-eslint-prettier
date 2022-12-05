@@ -1,0 +1,40 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.logo {
+    height: 6em;
+    padding: 1.5em;
+    will-change: filter;
+    transition: all 0.1s ease-in-out;
+}
+
+.logo.vite:hover {
+    filter: drop-shadow(0 0 2em #c964ffaa);
+}
+.logo.react:hover {
+    filter: drop-shadow(0 0 2em #61d2fbaa);
+}
+.logo.typescript:hover {
+    filter: drop-shadow(0 0 2em #619cfbaa);
+}
+.logo.eslint:hover {
+    filter: drop-shadow(0 0 2em #7061fbaa);
+}
+.logo.airbnb:hover {
+    filter: drop-shadow(0 0 2em #fb6161aa);
+}
+.logo.prettier:hover {
+    filter: drop-shadow(0 0 2em #fba461aa);
+}
+
+.card {
+    padding: 2em;
+}
+
+.read-the-docs {
+    color: #888;
+}

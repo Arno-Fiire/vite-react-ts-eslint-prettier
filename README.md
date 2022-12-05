@@ -42,4 +42,4 @@ module.exports = {
 
 Learn more about [Prettier options 📜](https://prettier.io/docs/en/options.html)
 
-Made with ❤️ by Me, inspired by [this video 🎬](https://www.youtube.com/watch?v=cchqeWY0Nak)
+Made with ❤️ by Arno-Fiire, inspired by [this video 🎬](https://www.youtube.com/watch?v=cchqeWY0Nak)
